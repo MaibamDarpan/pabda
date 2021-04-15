@@ -1,0 +1,41 @@
+main img {
+  width: 100px;
+}
+.carousel-inner {
+  background: #fceae8;
+  padding: 1em;
+  border-radius: 2rem;
+}
+h3 {
+  font-size: 3em;
+}
+.cat-1 {
+  background: #fad02c;
+  padding: 1em 1em;
+  border-radius: 1rem;
+}
+.cat-2 {
+  background: #e151af;
+  padding: 1em 1em;
+  border-radius: 1rem;
+}
+.cat-3 {
+  background: #abea7c;
+  padding: 1em 1em;
+  border-radius: 1rem;
+}
+.card {
+  box-shadow: 0.5em 1em 0.6rem rgba(0, 0, 0, 0.2);
+  border: none;
+  border-radius: 1em;
+}
+#submit {
+  background: #abea7c;
+  margin-bottom: 5rem;
+}
+#submit div input {
+  border: 1px solid gainsboro;
+  padding: 5px;
+  width: 20rem;
+  margin: 0.5em 0;
+}
